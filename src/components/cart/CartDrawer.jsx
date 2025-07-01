@@ -1,4 +1,4 @@
-// 📁 src/components/cart/CartDrawer.jsx
+
 import { useCart } from "../../hooks/useCart";
 import CartItem from "./CartItem";
 
